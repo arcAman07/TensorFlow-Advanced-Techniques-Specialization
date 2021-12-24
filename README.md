@@ -35,13 +35,14 @@ Harness the power of distributed training to process more data and train larger 
   Course 3: Advanced Computer Vision with TensorFlow
   </h3>
   <h4>
-  This is the third course of the TensorFlow: Advanced Techniques Specialization.
-  Week 1: Introduction to Computer Vision
-Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection.
-Week 2: Object Detection
-Apply object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label your own rubber duck images.
-Week 3: Image Segmentation
-Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and Mask-RCNN to identify and detect numbers, pets, zombies, and more.
-Week 4: Visualization and Interpretation
-Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.
+  This is the third course of the TensorFlow: Advanced Techniques Specialization.<br><br>
+  Week 1: Introduction to Computer Vision<br><br>
+Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection.<br><br>
+Week 2: Object Detection<br><br>
+Apply object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label your own rubber duck images.<br><br>
+Week 3: Image Segmentation<br><br>
+Implement image segmentation using variations of the fully convolutional network (FCN) including U-Net and Mask-RCNN to identify and detect numbers, pets, zombies, and more.<br><br>
+Week 4: Visualization and Interpretation<br><br>
+Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.<br><br>
   </h4>
+  <br>
