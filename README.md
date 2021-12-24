@@ -46,3 +46,9 @@ Week 4: Visualization and Interpretation<br><br>
 Identify which parts of an image are being used by your model to make its predictions using class activation maps and saliency maps and apply these ML interpretation methods to inspect and improve the design of a famous network, AlexNet.<br><br>
   </h4>
   <br>
+  <h3>
+  Course 4: Generative Deep Learning with TensorFlow
+  </h3>
+  <h4>
+This is the fourth course of the TensorFlow: Advanced Techniques Specialization.
+  </h4>
