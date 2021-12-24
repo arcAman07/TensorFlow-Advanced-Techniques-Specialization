@@ -51,10 +51,10 @@ Identify which parts of an image are being used by your model to make its predic
   </h3>
   <h4>
 This is the fourth course of the TensorFlow: Advanced Techniques Specialization.
-  In this course, you will:
+  In this course, you will:<br>
 
-Learn neural style transfer using transfer learning: extract the content of an image (eg. swan), and the style of a painting (eg. cubist or impressionist), and combine the content and style into a new image.
-Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset, understand the difference in results of the DNN and CNN AutoEncoder models, identify ways to de-noise noisy images, and build a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one.
-Explore Variational AutoEncoders (VAEs) to generate entirely new data, and generate anime faces to compare them against reference images.
-Learn about GANs; their invention, properties, architecture, and how they vary from VAEs, understand the function of the generator and the discriminator within the model, the concept of 2 training phases and the role of introduced noise, and build your own GAN that can generate faces.
+Learn neural style transfer using transfer learning: extract the content of an image (eg. swan), and the style of a painting (eg. cubist or impressionist), and combine the content and style into a new image.<br><br>
+Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset, understand the difference in results of the DNN and CNN AutoEncoder models, identify ways to de-noise noisy images, and build a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one.<br><br>
+Explore Variational AutoEncoders (VAEs) to generate entirely new data, and generate anime faces to compare them against reference images.<br><br>
+Learn about GANs; their invention, properties, architecture, and how they vary from VAEs, understand the function of the generator and the discriminator within the model, the concept of 2 training phases and the role of introduced noise, and build your own GAN that can generate faces.<br><br>
   </h4>
