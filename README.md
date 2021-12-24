@@ -30,3 +30,7 @@ Learn about the benefits of generating code that runs in graph mode, take a peek
 Week 4: Distributed Training<br><br>
 Harness the power of distributed training to process more data and train larger models, faster, get an overview of various distributed training strategies, and practice working with a strategy that trains on multiple GPU cores, and another that trains on multiple TPU cores.<br><br>
   </h4>
+  <br>
+  <h3>
+  Course 3: Advanced Computer Vision with TensorFlow
+  </h3>
