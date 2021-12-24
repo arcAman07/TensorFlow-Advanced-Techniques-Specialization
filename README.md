@@ -51,7 +51,7 @@ Identify which parts of an image are being used by your model to make its predic
   </h3>
   <h4>
 This is the fourth course of the TensorFlow: Advanced Techniques Specialization.
-  In this course, you will:<br>
+  In this course, you will:<br><br><br>
 
 Learn neural style transfer using transfer learning: extract the content of an image (eg. swan), and the style of a painting (eg. cubist or impressionist), and combine the content and style into a new image.<br><br>
 Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset, understand the difference in results of the DNN and CNN AutoEncoder models, identify ways to de-noise noisy images, and build a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one.<br><br>
