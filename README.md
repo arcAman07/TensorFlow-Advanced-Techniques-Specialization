@@ -16,3 +16,9 @@ Bonus: Callbacks<br><br>
 Customize your model outputs and its behavior during training through custom callbacks, implement a custom callback to stop training once the callback detects overfitting, use a model checkpoint to save parameters during training, use the EarlyStopping callback to keep a model from overfitting, and become familiar with where you might want to create a custom callback.<br><br>
   </h4>
   <br>
+ <h3>
+Course 2: Custom and Distributed Training with TensorFlow
+  </h3>
+  <h4>
+This is the second course of the TensorFlow: Advanced Techniques Specialization.
+  </h4>
