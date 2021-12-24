@@ -34,3 +34,6 @@ Harness the power of distributed training to process more data and train larger 
   <h3>
   Course 3: Advanced Computer Vision with TensorFlow
   </h3>
+  <h4>
+  This is the third course of the TensorFlow: Advanced Techniques Specialization.
+  </h4>
