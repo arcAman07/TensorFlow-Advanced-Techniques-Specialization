@@ -1,4 +1,4 @@
-# TensorFlow-Advanced-Techniques-Specialization
+# TensorFlow Advanced Techniques Specialization
 <h3>
 Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
   </h3>
