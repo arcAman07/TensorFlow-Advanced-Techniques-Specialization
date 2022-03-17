@@ -58,3 +58,4 @@ Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep a
 Explore Variational AutoEncoders (VAEs) to generate entirely new data, and generate anime faces to compare them against reference images.<br><br>
 Learn about GANs; their invention, properties, architecture, and how they vary from VAEs, understand the function of the generator and the discriminator within the model, the concept of 2 training phases and the role of introduced noise, and build your own GAN that can generate faces.<br><br>
   </h4>
+  <br>
